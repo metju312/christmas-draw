@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/christmas-draw/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/christmas-draw/static/js/main.627fe68d.chunk.js",
-    "main.js.map": "/christmas-draw/static/js/main.627fe68d.chunk.js.map",
+    "main.js": "/christmas-draw/static/js/main.40260a31.chunk.js",
+    "main.js.map": "/christmas-draw/static/js/main.40260a31.chunk.js.map",
     "runtime-main.js": "/christmas-draw/static/js/runtime-main.37d0074d.js",
     "runtime-main.js.map": "/christmas-draw/static/js/runtime-main.37d0074d.js.map",
     "static/js/2.5511ed46.chunk.js": "/christmas-draw/static/js/2.5511ed46.chunk.js",
@@ -12,12 +12,12 @@
     "index.html": "/christmas-draw/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/christmas-draw/static/css/main.8c8b27cf.chunk.css.map",
     "static/js/2.5511ed46.chunk.js.LICENSE.txt": "/christmas-draw/static/js/2.5511ed46.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/christmas-draw/static/media/logo.6ce24c58.svg"
+    "static/media/logo.78fcc73e.svg": "/christmas-draw/static/media/logo.78fcc73e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.37d0074d.js",
     "static/js/2.5511ed46.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.627fe68d.chunk.js"
+    "static/js/main.40260a31.chunk.js"
   ]
 }
